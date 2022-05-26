@@ -1,3 +1,7 @@
 <resources>
+    <!-- Common -->
     <string name="app_name">BestBooks</string>
+
+    <!-- Books Activity -->
+    <string name="books_title">Books</string>
 </resources>
